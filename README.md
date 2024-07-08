@@ -18,6 +18,15 @@
 - Developed and deployed a robust billing system for Shree Haridham Bandh Trust Samiti.
 - Implemented secure user authentication, dynamic PDF receipt generation, and a clean, responsive frontend using React and Material-UI.
 
+### CodeOptics Landind Site
+- Developed a responsive and visually appealing website for CodeOptics, focusing on enhancing their online presence.
+- Dynamic UI/UX design for better user engagement. Integrated client testimonials and detailed service descriptions.
+- Designed with Tailwind CSS for a modern and sleek appearance
+- Utilized Next.js for server-side rendering and optimized performance.
+- Ensured mobile responsiveness across various devices.
+- Technologies Used: Next.js, Tailwind CSS, Accernity UI
+- https://www.codeoptics.in/
+
 ### Digital Whiteboard Application
 - Created a Java-based digital whiteboard application with drawing functionalities and image file saving.
 
