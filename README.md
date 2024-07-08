@@ -40,7 +40,7 @@
 
 <p align="center">  
   <strong>Programming Languages:</strong> C, Java <br>
-  <strong>Web Technologies:</strong> HTML, CSS, Bootstrap, ReactJS <br>
+  <strong>Web Technologies:</strong> HTML, CSS, Bootstrap, ReactJS, NodeJS, Express <br>
   <strong>Databases:</strong> MySQL, PostgreSQL <br>
   <strong>Tools:</strong> Git, Material-UI, jsPDF
 </p>
