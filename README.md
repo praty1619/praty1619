@@ -39,10 +39,10 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">  
-  <strong>Programming Languages:</strong> C, Java <br>
-  <strong>Web Technologies:</strong> HTML, CSS, Bootstrap, ReactJS, NodeJS, Express <br>
+  <strong>Programming Languages:</strong> C, Java, Javascript(Basic) <br>
+  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express <br>
   <strong>Databases:</strong> MySQL, PostgreSQL <br>
-  <strong>Tools:</strong> Git, Material-UI, jsPDF
+  <strong>Tools:</strong> Git, Material-UI, jsPDF, JWT
 </p>
 
 <h2 align="center">Education</h2>
