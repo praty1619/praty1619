@@ -18,7 +18,8 @@
 - Created a Fully Functional Static Site using html css and js.
 - Added Images and refined the search optiization
 - working on a new Galary section along with adding interactive Reviews 
-- will later on update this site to a full feldges React.JS Project along with adding a backend   
+- will later on update this site to a full feldges React.JS Project along with adding a backend
+- www.khusurphusur.com  
 
 ### Full-Stack Billing Application
 - Developed and deployed a robust billing system for Shree Haridham Bandh Trust Samiti.
