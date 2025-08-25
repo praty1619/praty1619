@@ -14,6 +14,12 @@
 
 <h2 align="center">Projects</h2>
 
+### khusurPhusur Website
+- Created a Fully Functional Static Site using html css and js.
+- Added Images and refined the search optiization
+- working on a new Galary section along with adding interactive Reviews 
+- will later on update this site to a full feldges React.JS Project along with adding a backend   
+
 ### Full-Stack Billing Application
 - Developed and deployed a robust billing system for Shree Haridham Bandh Trust Samiti.
 - Implemented secure user authentication, dynamic PDF receipt generation, and a clean, responsive frontend using React and Material-UI.
@@ -26,9 +32,6 @@
 - Ensured mobile responsiveness across various devices.
 - Technologies Used: Next.js, Tailwind CSS, Accernity UI
 - https://www.codeoptics.in/
-
-### Digital Whiteboard Application
-- Created a Java-based digital whiteboard application with drawing functionalities and image file saving.
 
 ### Snake Game
 - Developed a fully functional Snake2D game inspired by classic Nokia snake games using Java Swing.
