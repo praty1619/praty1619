@@ -10,8 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">Hi, I’m currently pursuing my M.Tech in Information Technology at VIT Chennai.
-I’m a dedicated engineering student with a strong passion for frontend development and building scalable, user-friendly web applications..</p>
+<p align="center">I’m currently pursuing my M.Tech in AI/ML at VIT Chennai. I’m passionate about frontend development and enjoy creating engaging, scalable web applications. Alongside my expertise in React.js and modern web technologies, I’m proficient in Java, Node.js, and MySQL, with hands-on experience in building APIs and integrating AI/ML models. I thrive on combining creativity and technical skills to deliver impactful solutions.</p>
 
 <h2 align="center">Projects</h2>
 
