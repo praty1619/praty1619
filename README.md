@@ -21,24 +21,16 @@
 - will later on update this site to a full feldges React.JS Project along with adding a backend
 - www.khusurphusur.com  
 
+### DataQuest Hackathon - Microplastics Detection 
+- Developed a fully functional dynamic web application using React.js + Vite, with animations powered by Framer Motion
+- Collaborated in a team to build an AI model with XGBoost that classifies microplastics based on sensor-captured wavelengths and outputs confidence percentages.
+- Packaged the trained model with Joblib and deployed it as a Flask API to handle prediction requests.  
+- Implemented a Node.js backend to process client requests and route them to the Flask API.
+- Integrated LowDB as a lightweight database to store and manage results in JSON format.
+
 ### Full-Stack Billing Application
 - Developed and deployed a robust billing system for Shree Haridham Bandh Trust Samiti.
 - Implemented secure user authentication, dynamic PDF receipt generation, and a clean, responsive frontend using React and Material-UI.
-
-### CodeOptics Landind Site
-- Developed a responsive and visually appealing website for CodeOptics, focusing on enhancing their online presence.
-- Dynamic UI/UX design for better user engagement. Integrated client testimonials and detailed service descriptions.
-- Designed with Tailwind CSS for a modern and sleek appearance
-- Utilized Next.js for server-side rendering and optimized performance.
-- Ensured mobile responsiveness across various devices.
-- Technologies Used: Next.js, Tailwind CSS, Accernity UI
-- https://www.codeoptics.in/
-
-### Snake Game
-- Developed a fully functional Snake2D game inspired by classic Nokia snake games using Java Swing.
-
-### TinDog Web App
-- Built a dynamic web application inspired by Tinder using React, Bootstrap, and CSS, featuring user registration, matching, and pricing plans.
 
 <h2 align="center">Skills</h2>
 
