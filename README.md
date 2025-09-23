@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center"Hi, I’m currently pursuing my M.Tech in Information Technology at VIT Chennai.
+<p align="center">Hi, I’m currently pursuing my M.Tech in Information Technology at VIT Chennai.
 I’m a dedicated engineering student with a strong passion for frontend development and building scalable, user-friendly web applications..</p>
 
 <h2 align="center">Projects</h2>
