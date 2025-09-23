@@ -10,7 +10,8 @@
 
 <h2 align="center">About Me</h2>
 
-<p align="center">I'm a dedicated engineering student specializing in Information Technology. My expertise lies in frontend development, where I thrive in crafting engaging user interfaces and scalable web applications. I'm proficient in Java, NodeJS, MySQL, and adept with a variety of web technologies.</p>
+<p align="center"Hi, I’m currently pursuing my M.Tech in Information Technology at VIT Chennai.
+I’m a dedicated engineering student with a strong passion for frontend development and building scalable, user-friendly web applications..</p>
 
 <h2 align="center">Projects</h2>
 
@@ -35,13 +36,18 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">  
-  <strong>Programming Languages:</strong> C, Java, Javascript(Basic) <br>
-  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express <br>
-  <strong>Databases:</strong> MySQL, PostgreSQL <br>
-  <strong>Tools:</strong> Git, Material-UI, jsPDF, JWT
+  <strong>Programming Languages:</strong> C, Java, Javascript(Basic), Python <br>
+  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express, Flask <br>
+  <strong>Databases:</strong> MySQL, PostgreSQL, LowDB <br>
+  <strong>Tools:</strong> Git, Framer-Motion , Material-UI, jsPDF, JWT
 </p>
 
 <h2 align="center">Education</h2>
+
+<p align="center">
+  <strong>M.Tech in AI/ML in Collaboration with LTI MIndTree</strong> <br>
+  Vellore Institute of Technology(Chennai Campus), Chennai, Tamil Nadu, India (2025-Present)
+</p>
 
 <p align="center">
   <strong>B.E. in Information Technology</strong> <br>
