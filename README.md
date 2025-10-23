@@ -14,12 +14,20 @@
 
 <h2 align="center">Projects</h2>
 
+### YouTube Comment Analyzer
+- Developed a Full-Stack Web Application to analyze YouTube video comments for toxicity, spam, and positive sentiment.
+- Built a dynamic frontend with React.js + Vite and Framer Motion for interactive dashboards, detailed comment views, and real-time visualizations (Bar, Pie, Line charts).
+- Engineered a Python Flask API backend responsible for fetching comments via YouTube Data API V3, performing advanced text preprocessing (spaCy, regex), and executing ML inference.
+- Implemented a Multi-Label BERT Classifier using Hugging Face Transformers and PyTorch, fine-tuned for simultaneous detection of multiple comment categories.
+- www.khusurphusur.com
+
 ### khusurPhusur Website
 - Created a Fully Functional Static Site using html css and js.
 - Added Images and refined the search optiization
 - working on a new Galary section along with adding interactive Reviews 
 - will later on update this site to a full feldges React.JS Project along with adding a backend
-- www.khusurphusur.com  
+- Integrated a system for dynamically calculating and displaying comprehensive performance metrics (Accuracy, Precision, Recall, F1-Score) per video analysis, derived from a confusion matrix.
+- Key Technologies: React.js, Vite, Framer Motion, Python, Flask, PyTorch, Hugging Face Transformers, Pandas, Scikit-learn, Recharts, YouTube Data API V3. 
 
 ### DataQuest Hackathon - Microplastics Detection 
 - Developed a fully functional dynamic web application using React.js + Vite, with animations powered by Framer Motion
@@ -35,10 +43,11 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">  
-  <strong>Programming Languages:</strong> C, Java, Javascript(Basic), Python <br>
-  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express, Flask <br>
+  <strong>Programming Languages:</strong> C, Java, Python, JavaScript <br>
+  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express, Flask, Nginx, Gunicorn <br>
+  <strong>Machine Learning / AI:</strong> PyTorch, Hugging Face Transformers, Scikit-learn, Pandas, spaCy, TextBlob, NLP, BERT, Multi-Label Classification, Model Fine-Tuning, Model Evaluation <br>
   <strong>Databases:</strong> MySQL, PostgreSQL, LowDB <br>
-  <strong>Tools:</strong> Git, Framer-Motion , Material-UI, jsPDF, JWT
+  <strong>Tools & APIs:</strong> Git, Docker, Docker Compose, Framer Motion, Recharts, Material-UI, jsPDF, JWT, Google API Client (YouTube Data API V3)
 </p>
 
 <h2 align="center">Education</h2>
