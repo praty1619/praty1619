@@ -23,10 +23,13 @@
 - Key Technologies: React.js, Vite, Framer Motion, Python, Flask, PyTorch, Hugging Face Transformers, Pandas, Scikit-learn, Recharts, YouTube Data API V3. 
 
 ### khusurPhusur Website
-- Created a Fully Functional Static Site using html css and js.
-- Added Images and refined the search optiization
-- working on a new Galary section along with adding interactive Reviews 
-- updated this site to a full feldged React.JS and later on I will be working on adding a backend
+- **Dynamic Routing & Cinematic Pages:** Implemented react-router-dom to handle seamless transitions to dedicated, dark-mode /reviews (native HTML5 video grid) and /articles (custom CMS-style reading) pages.
+- **Interactive Magnetic Gallery:** Engineered a custom horizontal-scrolling visual diary utilizing advanced CSS scroll-snap for a frictionless, touch-optimized user experience.
+- **Frictionless Lead Generation:** Replaced traditional friction-heavy forms with a direct wa.me WhatsApp integration, passing pre-filled context strings to maximize client conversion rates.
+- **Advanced UI & Micro-interactions:** Built utilizing Framer Motion for scroll-triggered viewport animations. Features a custom 3D CSS vintage ticket component for the footer and frosted glassmorphism UI elements.
+- **Optimized Deployment:** Successfully configured routing (.htaccess), media asset pipelines, and automated file permission security for a live Linux server deployment (Hostinger).
+- Integrating a dedicated Node.js/Express backend for dynamic content management.
+- Integrating a third-party Print-on-Demand E-commerce storefront for workshop merchandise.
 - www.khusurphusur.com
     
 ### DataQuest Hackathon - Microplastics Detection 
