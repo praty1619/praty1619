@@ -1,84 +1,119 @@
 <p align="center">
-  <img src="https://github.com/praty1619/my-image/blob/main/AvatarMaker%20(1).png?raw=true" alt="Pratyush Pandit" width="200" height="200">
+  <img src="https://github.com/praty1619/my-image/blob/main/AvatarMaker%20(1).png?raw=true" alt="Pratyush Pandit" width="180" height="180">
 </p>
 
-<h1 align="center">Hi there, I'm Pratyush Pandit! 👋</h1>
-
-<p align="center">Engineering student | Frontend Developer | IT Enthusiast</p>
-
-<p align="center">Passionate about creating interactive web experiences and solving real-world problems through technology.</p>
-
-<h2 align="center">About Me</h2>
-
-<p align="center">I’m currently pursuing my M.Tech in AI/ML at VIT Chennai. I’m passionate about frontend development and enjoy creating engaging, scalable web applications. Alongside my expertise in React.js and modern web technologies, I’m proficient in Java, Node.js, and MySQL, with hands-on experience in building APIs and integrating AI/ML models. I thrive on combining creativity and technical skills to deliver impactful solutions.</p>
-
-<h2 align="center">Projects</h2>
-
-### YouTube Comment Analyzer
-- Developed a Full-Stack Web Application to analyze YouTube video comments for toxicity, spam, and positive sentiment.
-- Built a dynamic frontend with React.js + Vite and Framer Motion for interactive dashboards, detailed comment views, and real-time visualizations (Bar, Pie, Line charts).
-- Engineered a Python Flask API backend responsible for fetching comments via YouTube Data API V3, performing advanced text preprocessing (spaCy, regex), and executing ML inference.
-- Implemented a Multi-Label BERT Classifier using Hugging Face Transformers and PyTorch, fine-tuned for simultaneous detection of multiple comment categories.
-- Integrated a system for dynamically calculating and displaying comprehensive performance metrics (Accuracy, Precision, Recall, F1-Score) per video analysis, derived from a confusion matrix.
-- Key Technologies: React.js, Vite, Framer Motion, Python, Flask, PyTorch, Hugging Face Transformers, Pandas, Scikit-learn, Recharts, YouTube Data API V3. 
-
-### khusurPhusur Website
-- **Dynamic Routing & Cinematic Pages:** Implemented react-router-dom to handle seamless transitions to dedicated, dark-mode /reviews (native HTML5 video grid) and /articles (custom CMS-style reading) pages.
-- **Interactive Magnetic Gallery:** Engineered a custom horizontal-scrolling visual diary utilizing advanced CSS scroll-snap for a frictionless, touch-optimized user experience.
-- **Frictionless Lead Generation:** Replaced traditional friction-heavy forms with a direct wa.me WhatsApp integration, passing pre-filled context strings to maximize client conversion rates.
-- **Advanced UI & Micro-interactions:** Built utilizing Framer Motion for scroll-triggered viewport animations. Features a custom 3D CSS vintage ticket component for the footer and frosted glassmorphism UI elements.
-- **Optimized Deployment:** Successfully configured routing (.htaccess), media asset pipelines, and automated file permission security for a live Linux server deployment (Hostinger).
-
-  **Future Roadmap**
-- Integrating a dedicated Node.js/Express backend for dynamic content management.
-- Integrating a third-party Print-on-Demand E-commerce storefront for workshop merchandise.
-- www.khusurphusur.com
-    
-### DataQuest Hackathon - Microplastics Detection 
-- Developed a fully functional dynamic web application using React.js + Vite, with animations powered by Framer Motion
-- Collaborated in a team to build an AI model with XGBoost that classifies microplastics based on sensor-captured wavelengths and outputs confidence percentages.
-- Packaged the trained model with Joblib and deployed it as a Flask API to handle prediction requests.  
-- Implemented a Node.js backend to process client requests and route them to the Flask API.
-- Integrated LowDB as a lightweight database to store and manage results in JSON format.
-
-### Full-Stack Billing Application
-- Developed and deployed a robust billing system for Shree Haridham Bandh Trust Samiti.
-- Implemented secure user authentication, dynamic PDF receipt generation, and a clean, responsive frontend using React and Material-UI.
-
-<h2 align="center">Skills</h2>
-
-<p align="center">  
-  <strong>Programming Languages:</strong> C, Java, Python, JavaScript <br>
-  <strong>Web Technologies:</strong> HTML, CSS, Tailwind, ReactJS, NextJS(Beginner), NodeJS, Express, Flask, Nginx, Gunicorn <br>
-  <strong>Machine Learning / AI:</strong> PyTorch, Hugging Face Transformers, Scikit-learn, Pandas, Numpy, spaCy, TextBlob, NLP, BERT, Multi-Label Classification, XGBoost, RandomForest, Model Fine-Tuning, Model Evaluation <br>
-  <strong>Databases:</strong> MySQL, PostgreSQL, LowDB <br>
-  <strong>Tools & APIs:</strong> Git, Docker, Docker Compose, Framer Motion, Recharts, Material-UI, jsPDF, JWT, Google API Client (YouTube Data API V3)
-</p>
-
-<h2 align="center">Education</h2>
+<h1 align="center">Hi, I'm Pratyush Pandit 👋</h1>
 
 <p align="center">
-  <strong>M.Tech in AI/ML in Collaboration with LTI MIndTree</strong> <br>
-  Vellore Institute of Technology(Chennai Campus), Chennai, Tamil Nadu, India (2025-Present)
+  <strong>Full Stack Developer</strong> &nbsp;|&nbsp; M.Tech AI/ML @ VIT Chennai &nbsp;|&nbsp; Freelancer
 </p>
 
 <p align="center">
-  <strong>B.E. in Information Technology</strong> <br>
-  Sinhgad College Of Engineering, Pune, Maharashtra, India (2019-2023)
+  I build production-grade web applications and AI-powered systems — from scalable REST APIs and React frontends to RAG pipelines and NLP models. I care about clean architecture, real deployments, and software that actually works.
 </p>
 
-<h2 align="center">Hobbies & Interests</h2>
-
 <p align="center">
-  Graphic Designing | Cricket | Boxing
+  <a href="https://www.linkedin.com/in/pratyush-pandit-5016bb1a9/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="mailto:praty1612@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://github.com/praty1619">GitHub</a>
 </p>
 
 ---
 
-<p align="center">
-  Let's connect! Reach out to me on <a href="https://www.linkedin.com/in/pratyush-pandit-5016bb1a9/">LinkedIn</a> | <a href="mailto:praty1612@gmail.com">Email</a> | <a href="https://github.com/praty1619">GitHub</a>
-</p>
+## 🧑‍💻 About Me
 
-<p align="center">
-  Thank you for visiting! Feel free to explore my repositories and reach out for collaborations or discussions on any of my projects!
-</p>
+- 🎓 Pursuing **M.Tech in AI/ML** (in collaboration with LTI Mindtree) at **VIT Chennai** — CGPA: 8.54
+- 💼 Freelance Full Stack Developer — delivered 3 live production projects
+- 🔭 Currently building an **Enterprise RAG System** with Java 21 + Spring Boot + Qdrant + Groq LLM
+- 🧠 Comfortable across the stack — React frontends, Node/Spring backends, NLP pipelines, Docker deployments
+- 🏏 Off the keyboard: Cricket, Boxing, Graphic Design
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Java, Python, JavaScript, SQL
+
+**Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS, Framer Motion, Responsive & Mobile-First Design
+
+**Backend:** Node.js, Express.js, Flask, Spring Boot, REST API Design, JWT Auth, Role-Based Access Control
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Qdrant (Vector DB)
+
+**DevOps & Cloud:** Docker, Kubernetes, CI/CD, Git, Linux, Shell Scripting, PM2, Vercel, AWS (Basics)
+
+**AI/ML:** PyTorch, HuggingFace Transformers, BERT, LLMs, RAG Systems, NLP Pipelines, Scikit-learn, spaCy, XGBoost
+
+---
+
+## 💼 Freelance Experience
+
+### 🔹 Trust Financial Management System — Full Stack Developer
+`Node.js` `Express.js` `PostgreSQL` `React.js` `Docker` `JWT` `Linux` &nbsp;|&nbsp; *May 2024 – Oct 2024* &nbsp;|&nbsp; [GitHub](https://github.com/praty1619/Haridham-Billing)
+
+- Built a production billing platform for a real financial organisation — automated PDF receipt generation, JWT auth, and RBAC across all protected API endpoints
+- Deployed on a Linux VPS with Docker + PM2 + custom shell scripts; frontend on Vercel — zero production failures post-launch
+- Designed PostgreSQL schemas and optimised SQL queries for transaction history and financial reporting
+
+---
+
+### 🔹 Shyama Business Growth Portal — Frontend Developer
+`React 19` `Vite` `Framer Motion` `MUI` `Swiper` `PHP` `Vercel` &nbsp;|&nbsp; *2025* &nbsp;|&nbsp; [Live Site](https://www.shyamabusinessgrowth.com)
+
+- Built a mobile-first React 19 + Vite SPA with Framer Motion animations, Swiper carousels, scroll-triggered counters, and a masonry product grid
+- Debugged a live production issue: wrote a custom PHP cache-busting script to purge stale Service Workers and Hostinger LiteSpeed caches under FTP file-locks
+
+---
+
+### 🔹 KhusurPhusur Content Platform — Frontend Developer
+`React.js` `JavaScript (ES6+)` `CSS3` `Framer Motion` &nbsp;|&nbsp; *Jan 2025 – Present* &nbsp;|&nbsp; [Live Site](https://www.khusurphusur.com)
+
+- Architected a modular React SPA with client-side routing for article and review workflows
+- Built a touch-optimised horizontal gallery using CSS scroll-snap; Framer Motion scroll-triggered animations throughout
+
+---
+
+## 🚀 Projects
+
+### 🔹 Enterprise AI Assistant — RAG Pipeline
+`Java 21` `Spring Boot` `Groq API (Llama 3.1)` `Qdrant` `Docker` `REST` `Maven` &nbsp;|&nbsp; *Ongoing* &nbsp;|&nbsp; [GitHub](https://github.com/praty1619/RAG-Project)
+
+- Building a production-grade RAG system: PDF ingestion → vector embeddings → Qdrant → Groq LLM response
+- Clean REST APIs for chat and document management; fully containerised with Docker for reproducible deployments
+
+---
+
+### 🔹 YouTube Comment Analyzer — AI-Powered Full Stack App
+`Python` `Flask` `PyTorch` `HuggingFace` `BERT` `React.js` `Scikit-learn` `YouTube Data API v3` &nbsp;|&nbsp; [GitHub](https://github.com/praty1619/Youtube-Comment-Extraction)
+
+- Flask REST backend with NLP endpoints consumed by a React.js frontend with Recharts visualisations (Bar, Pie, Line)
+- Multi-label BERT classifier fine-tuned for toxicity, spam, and sentiment detection; full preprocessing pipeline with spaCy + regex
+- Real-time comment extraction via YouTube Data API v3; dynamic performance metrics (Accuracy, Precision, Recall, F1-Score)
+
+---
+
+### 🔹 DataQuest Hackathon — Microplastics Detection
+`React.js` `Vite` `Flask` `Node.js` `XGBoost` `Joblib` `LowDB`
+
+- Collaborated to build an XGBoost model classifying microplastics from sensor wavelength data with confidence percentages
+- Flask API served the Joblib-packaged model; Node.js backend routed client requests; LowDB stored results in JSON
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | CGPA |
+|--------|-------------|------|------|
+| M.Tech — Artificial Intelligence & Machine Learning | VIT Chennai (w/ LTI Mindtree) | 2025 – Present | 8.54 / 10 |
+| B.E. — Information Technology | Sinhgad College of Engineering, Pune | 2019 – 2023 | 7.28 / 10 |
+
+---
+
+## 📜 Certifications
+
+**Software Developer Training — Mthree (Wiley Edge Academy)** *(2024)*
+Selected via competitive 4-stage screening; intensive training in Spring Boot, DSA, SQL, Git, Agile/Scrum, and AWS with structured code review practices.
+
+---
+
+<p align="center">Thanks for stopping by — feel free to explore my repos or reach out for collaborations!</p>
